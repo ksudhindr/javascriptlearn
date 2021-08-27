@@ -1,0 +1,12 @@
+{
+  "name": "anything",
+  "version": "0.0.0",
+  "description": "externmoduleApp",
+  "main": "app.js",
+  "author": {
+    "name": "Dev",
+    "email": "ksud@sud.com"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
