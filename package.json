@@ -7,6 +7,10 @@
     "name": "Dev",
     "email": "ksud@sud.com"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "playwright":"1.14.1"
+  },
+  "devDependencies": {
+    
+  }
 }
