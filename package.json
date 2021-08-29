@@ -8,9 +8,9 @@
     "email": "ksud@sudmod.com"
   },
   "dependencies": {
-    "playwright":"1.14.1"
+    "bufferutil": "^4.0.1",
+    "playwright": "^1.14.1",
+    "utf-8-validate": "^5.0.2"
   },
-  "devDependencies": {
-    
-  }
+  "devDependencies": {}
 }
