@@ -1,7 +1,11 @@
 //var fs = require('fs');
 //fixconfig branch
 //Understand-Branches-commit3
+//<<<<<<< Rebase-branch
+//modifying Rebase-branch
+=======
 //editing head
+//>>>>>>> head
 var http = require('http');
 const playwright = require('playwright');
 console.log(typeof(playwright));
